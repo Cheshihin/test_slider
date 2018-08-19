@@ -20,51 +20,51 @@
 					slidesToShow: 5,
 					slidesToScroll: 1,
 					arrows:true,
-					//adaptiveHeight: true
+					adaptiveHeight: true
 				});
 				
 				
 			});
 		</script>
 		<div class="test-slider" style="width:70%;height:50%;margin-top:20%;margin-left:15%;">
-			<div class="image-shell">
-				<img class="image" src="images/1.jpg" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/1.jpg" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/2.jpg" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/2.jpg" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/3.jpg" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/3.jpg" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/4.png" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/4.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/5.png" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/5.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/6.png" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/6.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/7.png" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/7.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/8.jpg" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/8.jpg" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/9.png" width="200" height="150">
+			<div class="image-shell" style="padding:5%;width:10%;height:10%;">
+				<img class="image" src="images/9.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/10.png" width="200" height="150">
+			<div class="image-shell" style="margin-left:5%;width:10%;height:10%;">
+				<img class="image" src="images/10.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/11.png" width="200" height="150">
+			<div class="image-shell" style="margin-left:5%;width:10%;height:10%;">
+				<img class="image" src="images/11.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/12.png" width="200" height="150">
+			<div class="image-shell" style="margin-left:5%;width:10%;height:10%;">
+				<img class="image" src="images/12.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
-			<div class="image-shell">
-				<img class="image" src="images/13.png" width="200" height="150">
+			<div class="image-shell" style="margin-left:5%;width:10%;height:10%;">
+				<img class="image" src="images/13.png" width="200" height="150" style="width:90%;height:90%;">
 			</div>
 			
 			<!--
